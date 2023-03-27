@@ -4,7 +4,7 @@
 
 ![](./)
 
-Deploy do projeto: (Em Breve)
+Deploy: (Em Breve)
 
 ## Sobre
 
