@@ -4,7 +4,7 @@
 
 ![](./img/focando.png)
 
-Deploy: (Em Breve)
+Deploy: https://focus-lista.vercel.app/
 
 ## Sobre
 
