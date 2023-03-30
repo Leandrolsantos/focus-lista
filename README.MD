@@ -16,11 +16,11 @@ Ampliar meus conhecimentos de Javascript, explorando a lógica da criação de e
 
 ### Desafio
 
-Mais uma vez me desafio em ampliar minhas habilidades de JS, a cada projeto que utilizo esta linhguagem consigo compreender melhor como ela funciona, estou animado para continuar focando em ferramentas que fazem bastante uso do Javascript.
+Mais uma vez me desafio a ampliar minhas habilidades de JS e a cada projeto que tem esta linhguagem como foco consigo compreender melhor como ela funciona. Estou animado para continuar focando em projetos que fazem bastante uso do Javascript.
 
 ### Conclusão
 
-Foi um desafio e tanto, achei um pouco difícil entender a lógica, porém fiquei feliz com o resultado. Irei continuar a praticar mais em projetos futuros e cada vez mais complexos.
+Foi um desafio e tanto, achei um pouco difícil entender a lógica, porém fiquei feliz com o resultado. Irei continuar a praticar mais em projetos futuros e a cada projeto, ir adquirindo mais prática.
 
 ### Ferramentas Utilizadas
 

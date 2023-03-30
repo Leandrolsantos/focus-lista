@@ -147,7 +147,7 @@ document.addEventListener("click", (e) => {
   if (targetEl.classList.contains("remove-todo")) {
     parentEl.remove();
 
-    // Dados da localStorage
+    // Dados localStorage
     removeTodoLocalStorage(todoTitle);
   }
 
