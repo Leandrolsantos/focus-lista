@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Focus - Lista de Tarefas</title>
+    <link rel="icon" type="image/favicon" href="/img/task.png">
+    <title>Focando - Lista de Tarefas</title>
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
     <!-- Font Awesome -->
@@ -14,13 +15,13 @@
     integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" 
     crossorigin="anonymous" 
     referrerpolicy="no-referrer" />
-    <!-- JS -->
+    <!-- Javascript -->
     <script src="js/scripts.js" defer></script>
 </head>   
 <body>
     <div class="todo-container">
         <header>
-            <h1>Focus</h1>
+            <h1>Focando 👀</h1>
         </header>
         <form id="todo-form">
             <p>Adicione aqui uma tarefa:</p>
@@ -31,7 +32,7 @@
                 </button>
             </div>
         </form>
-        <form id="edit-form">
+        <form id="edit-form" class="hide">
             <p>Edite aqui sua tarefa:</p>
             <div class="form-control">
                 <input type="text" id="edit-input">
@@ -61,8 +62,8 @@
             </div>
         </div>
         <div id="todo-list">
-            <div class="todo">
-                <h3>É hora de codar...</h3>
+            <div class="todo done">
+                <h3>Escrever código</h3>
                 <button class="finish-todo">
                     <i class="fa-solid fa-check"></i>
                 </button>
@@ -74,7 +75,7 @@
                 </button>
             </div>
             <div class="todo">
-                <h3>Estudar JavaScript</h3>
+                <h3>Estudar Javascript</h3>
                 <button class="finish-todo">
                     <i class="fa-solid fa-check"></i>
                 </button>
